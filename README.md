@@ -1,2 +1,2 @@
 # mitanurmala
-mahasiswa teknik informatika UAD
+Teknik Informatika 
